@@ -97,18 +97,17 @@ pnpm build
 
 通过 server 的方式打开 example/\* 下的 index.html 即可
 
->  推荐使用 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+> 推荐使用 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ### 初始化
 
 #### 流程图
-![初始化流程图](https://user-images.githubusercontent.com/12064746/138114565-3e0eecbb-7fd0-4203-bf36-5e5fd8003ce0.png)
+![初始化流程图](./resource/initial-flow.png)
 
 
 #### 关键函数调用图
 
-
-![关键函数调用图2](https://user-gold-cdn.xitu.io/2020/6/22/172dc08840e25b42?w=1816&h=934&f=png&s=550722)
+![关键函数调用图](https://user-gold-cdn.xitu.io/2020/6/22/172dc08840e25b42?w=1816&h=934&f=png&s=550722)
 
 > 可以基于函数名快速搜索到源码内容
 
@@ -116,11 +115,11 @@ pnpm build
 
 #### 流程图
 
-![image](https://user-images.githubusercontent.com/12064746/138115157-1f4fb8a2-7e60-412d-96de-12e68eb0288c.png)
+![image](./resource/update-flow.png)
 
 #### 关键函数调用图
 
-![image](https://user-images.githubusercontent.com/12064746/138114969-9139e4af-b2df-41b2-a5d9-069d8b41903c.png)
+![image](./resource/update-flow-functions.png)
 
 
 > 可以基于函数名快速搜索到源码内容
